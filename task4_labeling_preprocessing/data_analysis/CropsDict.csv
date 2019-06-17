@@ -1,0 +1,116 @@
+﻿LC_CategoryID,LC_CategoryName,LC_GroupID,LC_GroupName,LC_CodeId,LC_CodeName
+B,Arable land,B1,Cereal crops,B101,Rice - Early paddy
+B,Arable land,B1,Cereal crops,B102,Rice - Main paddy
+B,Arable land,B1,Cereal crops,B103,Rice - Upland paddy
+B,Arable land,B1,Cereal crops,B104,Wheat
+B,Arable land,B1,Cereal crops,B105,Maize - Spring/winter
+B,Arable land,B1,Cereal crops,B106,Maize - Summer
+B,Arable land,B1,Cereal crops,B107,Millet
+B,Arable land,B1,Cereal crops,B108,Barley / naked barley
+B,Arable land,B1,Cereal crops,B109,Buckwheat
+B,Arable land,B1,Cereal crops,B110,Other cereals
+B,Arable land,B2,Pulses,B201,Soybeans
+B,Arable land,B2,Pulses,B202,Black grams
+B,Arable land,B2,Pulses,B203,Red grams
+B,Arable land,B2,Pulses,B204,Grass pea
+B,Arable land,B2,Pulses,B205,Lentil
+B,Arable land,B2,Pulses,B206,Gram
+B,Arable land,B2,Pulses,B207,Pea
+B,Arable land,B2,Pulses,B208,Green gram
+B,Arable land,B2,Pulses,B209,Horse gram
+B,Arable land,B2,Pulses,B210,Cow pea
+B,Arable land,B2,Pulses,B211,Other legumes
+B,Arable land,B3,Root crops,B301,Potato - Winter
+B,Arable land,B3,Root crops,B302,Potato ï¿½ Summer
+B,Arable land,B3,Root crops,B303,Sweet potato
+B,Arable land,B3,Root crops,B304,Colocasia
+B,Arable land,B3,Root crops,B305,Other root crops
+B,Arable land,B4,Oil seeds,B401,Mustard seeds
+B,Arable land,B4,Oil seeds,B402,Ground nut
+B,Arable land,B4,Oil seeds,B403,Linseed
+B,Arable land,B4,Oil seeds,B404,Sesame
+B,Arable land,B4,Oil seeds,B405,Nijer seed
+B,Arable land,B4,Oil seeds,B406,Other oilseeds
+B,Arable land,B5,Cash crops,B501,Sugarcane
+B,Arable land,B5,Cash crops,B502,Jute
+B,Arable land,B5,Cash crops,B503,Tobacco
+B,Arable land,B5,Cash crops,B504,Floriculture and ornamental plants
+B,Arable land,B5,Cash crops,B505,Other non permanent cash crops
+B,Arable land,B6,Spices,B601,Chili
+B,Arable land,B6,Spices,B602,Onion
+B,Arable land,B6,Spices,B603,Garlic
+B,Arable land,B6,Spices,B604,Ginger
+B,Arable land,B6,Spices,B605,Turmeric
+B,Arable land,B6,Spices,B606,Coriander seed
+B,Arable land,B6,Spices,B607,Other spices
+B,Arable land,B7,Vegetables,B701,Cauliflower
+B,Arable land,B7,Vegetables,B702,Cabbage
+B,Arable land,B7,Vegetables,B703,Tomato
+B,Arable land,B7,Vegetables,B704,Brinjal (Eggplant)
+B,Arable land,B7,Vegetables,B705,Bitter gourd
+B,Arable land,B7,Vegetables,B706,Lady's fingers (Okras)
+B,Arable land,B7,Vegetables,B707,Bell pepper chili
+B,Arable land,B7,Vegetables,B708,Cucumber
+B,Arable land,B7,Vegetables,B709,Pumpkin
+B,Arable land,B7,Vegetables,B710,Bottle gourd
+B,Arable land,B7,Vegetables,B711,Sponge gourd
+B,Arable land,B7,Vegetables,B712,Christophine
+B,Arable land,B7,Vegetables,B713,Pointed gourd
+B,Arable land,B7,Vegetables,B714,Hyacinth bean
+B,Arable land,B7,Vegetables,B715,Cowpea
+B,Arable land,B7,Vegetables,B716,Broccoli
+B,Arable land,B7,Vegetables,B717,Broad mustard leaf
+B,Arable land,B7,Vegetables,B718,Radish
+B,Arable land,B7,Vegetables,B719,Carrot
+B,Arable land,B7,Vegetables,B720,Other vegetables
+B,Arable land,B8,Temporary meadow and fodder crops,B801,"Temporary, artificial pastures"
+B,Arable land,B8,Temporary meadow and fodder crops,B802,Fodder grass
+B,Arable land,B9,Fallow land,B901,Temporary Fallow
+C,Permenant crops,C1,Citrus trees,,
+C,Permenant crops,C1,Citrus trees,C101,Orange
+C,Permenant crops,C1,Citrus trees,C102,Junar
+C,Permenant crops,C1,Citrus trees,C103,Lemon
+C,Permenant crops,C1,Citrus trees,C104,Lime
+C,Permenant crops,C1,Citrus trees,C105,Sweet orange
+C,Permenant crops,C1,Citrus trees,C106,Other citrus
+C,Permenant crops,C2,Fruit trees and berries,C201,Mango
+C,Permenant crops,C2,Fruit trees and berries,C202,Banana
+C,Permenant crops,C2,Fruit trees and berries,C203,Guava
+C,Permenant crops,C2,Fruit trees and berries,C204,Jackfruit
+C,Permenant crops,C2,Fruit trees and berries,C205,Pineapple
+C,Permenant crops,C2,Fruit trees and berries,C206,Lychee
+C,Permenant crops,C2,Fruit trees and berries,C207,Apple
+C,Permenant crops,C2,Fruit trees and berries,C208,Pear
+C,Permenant crops,C2,Fruit trees and berries,C209,Peach
+C,Permenant crops,C2,Fruit trees and berries,C210,Papaya
+C,Permenant crops,C2,Fruit trees and berries,C211,Pomegranate
+C,Permenant crops,C2,Fruit trees and berries,C212,Coconut
+C,Permenant crops,C2,Fruit trees and berries,C213,Wallnut
+C,Permenant crops,C2,Fruit trees and berries,C214,Beetle nut
+C,Permenant crops,C2,Fruit trees and berries,C215,"Other fruits trees, berries"
+C,Permenant crops,C3,Other permanent crops,C301,Tea
+C,Permenant crops,C3,Other permanent crops,C302,Coffee
+C,Permenant crops,C3,Other permanent crops,C303,Alainch
+C,Permenant crops,C3,Other permanent crops,C304,Amriso
+C,Permenant crops,C3,Other permanent crops,C305,Thatch
+C,Permenant crops,C3,Other permanent crops,C306,Fodder tree
+C,Permenant crops,C3,Other permanent crops,C307,Multi-year fodder
+C,Permenant crops,C3,Other permanent crops,C308,Bamboo
+C,Permenant crops,C3,Other permanent crops,C309,Other permanent crops
+C,Permenant crops,C4,Nurseries,C401,Nurseries
+O,Non-agricultural,A,Artificial land,A11,Buildings
+O,Non-agricultural,A,Artificial land,A12,Greenhouses
+O,Non-agricultural,A,Artificial land,A21,Non built-up area features
+O,Non-agricultural,A,Artificial land,A22,Non built-up linear features
+O,Non-agricultural,D,Woodland,D10,Forest
+O,Non-agricultural,D,Woodland,D20,Other wooded area
+O,Non-agricultural,D,Woodland,D30,Timber plantations
+O,Non-agricultural,E,Shrubland,E01,Shrubland with sparse tree cover
+O,Non-agricultural,E,Shrubland,E02,Shrubland without tree cover
+O,Non-agricultural,F,Permanent Grassland,F01,Permanent grassland with sparse tree/shrub cover
+O,Non-agricultural,F,Permanent Grassland,F02,Permanent grassland without tree/shrub cover
+O,Non-agricultural,G,Bare Land,G00,Bare land
+O,Non-agricultural,H,Water and Wetland,H01,Inland water bodies
+O,Non-agricultural,H,Water and Wetland,H02,Inland running water
+O,Non-agricultural,H,Water and Wetland,H03,Wetland
+O,Non-agricultural,H,Water and Wetland,H04,"Glaciers, permanent snow"
